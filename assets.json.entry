@@ -4,6 +4,6 @@
 	"off": true,
 	"title": "Microsoft Attack Simulation Training domains",
 	"tags": "security phishing simulation",
-	"contentURL": "https://raw.githubusercontent.com/USER/REPO/main/ms-attack-simulation-domains.txt",
-	"supportURL": "https://github.com/USER/REPO"
+	"contentURL": "https://raw.githubusercontent.com/DmitrySandalov/filter-lists/main/ms-attack-simulation-domains.txt",
+	"supportURL": "https://github.com/DmitrySandalov/filter-lists"
 }
