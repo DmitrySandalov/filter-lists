@@ -24,8 +24,8 @@ jobs:
           
           # Fetch page as markdown and extract domains
           curl -sL "https://learn.microsoft.com/en-us/defender-office-365/attack-simulation-training-get-started?accept=text/markdown" \
-            | grep -oE '\`https://www\.[a-z0-9.-]+\`' \
-            | tr -d '\`' \
+            | grep -oE '`https://www\.[a-z0-9.-]+`' \
+            | tr -d '`' \
             | sed 's#https://www\.##' \
             | sort -u > current.txt
           
