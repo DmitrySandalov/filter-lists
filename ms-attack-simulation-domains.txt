@@ -1,7 +1,7 @@
 ! Title: Microsoft Attack Simulation Training domains
 ! Description: Phishing-simulation URL domains used by Microsoft Defender for Office 365 Attack simulation training. Blocks them in the browser.
-! Version: 2026.10.25
-! Last modified: 2026-10-25
+! Version: 2026.10.26
+! Last modified: 2026-10-26
 ! Expires: 7 days
 ! Homepage: https://learn.microsoft.com/en-us/defender-office-365/attack-simulation-training-get-started
 !
@@ -9,7 +9,7 @@
 ! Microsoft Learn: "Get started using Attack simulation training" (Microsoft Defender for Office 365)
 ! https://learn.microsoft.com/en-us/defender-office-365/attack-simulation-training-get-started
 ! Where: section "Simulations", table "The URLs that are used by Attack simulation training are listed in the following table"
-! Page last updated by Microsoft: 2026-10-25 | Retrieved: 2026-10-25 | Domains: 130 (all listed as https://www.<domain>)
+! Page last updated by Microsoft: 2026-10-26 | Retrieved: 2026-10-26 | Domains: 130 (all listed as https://www.<domain>)
 ! Docs source file: https://github.com/MicrosoftDocs/defender-docs/blob/public/defender-office-365/attack-simulation-training-get-started.md
 !
 ! ---- HOW TO UPDATE ----

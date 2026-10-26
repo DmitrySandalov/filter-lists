@@ -1,7 +1,7 @@
 # Microsoft Attack Simulation Training domains - Hosts file format
 # ----
 # title:          Microsoft Attack Simulation Training domains (Hosts format)
-# last updated:   2026-10-25
+# last updated:   2026-10-26
 # entries:        130
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/DmitrySandalov/filter-lists
